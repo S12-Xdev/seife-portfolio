@@ -4,7 +4,6 @@
   "description": "A personal portfolio website showcasing projects and skills.",
   "author": "Seife",
   "license": "MIT",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
